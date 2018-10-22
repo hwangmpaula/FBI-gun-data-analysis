@@ -1,4 +1,4 @@
-#FBI-gun-data-analysis Project 
+# FBI-gun-data-analysis Project 
 
 The purpose of this project is to explore the trends of U.S gun purchases by combining and visualize with census population data by using numpy, pandas, and matplotlip.
 
