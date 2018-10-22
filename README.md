@@ -1,21 +1,17 @@
 #FBI-gun-data-analysis Project 
 
-you will conduct your own data analysis and create a file to share that documents your findings.
-You should start by taking a look at your dataset and brainstorming what questions you could answer using it. 
-Then you should use pandas and NumPy to answer the questions you are most interested in, and create a report sharing the answers. 
+The purpose of this project is to explore the trends of U.S gun purchases by combining and visualize with census population data by using numpy, pandas, and matplotlip.
 
 # Project:
 
-For this project, I am working on to understand the results of an A/B test run by an e-commerce website.
-The company has developed a new web page to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product.
-The goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
-
 ##### The Goal to Complete the project:
-  
-  - Answers to the questions
-  - Code to solve the problems 
-  - Comments when necessarary
 
+  - Ask questions
+  - Clean FBI-gun data and census data (to match both FBI-data and census-data)
+  - Merge both FBI-gun data and census data altogether 
+  - Answers the questions
+  - Visualize the combined FBI-gun data and census data
+  
 # FBI-gun-data-analysis
 
 The data comes from the FBI's National Instant Criminal Background Check System. 
@@ -30,7 +26,7 @@ The data has been supplemented with state level data from census.gov.
 
 ### 
 
-##### Analyze-A-B-Test-Results uses some open source projects to work properly:
+##### Analyze FBI-gun-data-analysis uses some open source projects to work properly:
 
 * [Jupyter Notebook] or [Python 3] - jupyter notebook is an open source and used to data analyze with python code
 * [matplotlib] - uses to facilitate the data analyzation by displaying the plots
