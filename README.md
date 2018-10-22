@@ -31,7 +31,7 @@ Here's a shortcut link:
 
 - "Investigate_a_Dataset.html" can be displayed in HTML.
 Here's a shortcut link: 
-<a href="https://github.com/hwangmpaula/FBI-gun-data-analysis/blob/master/FBI-gun-project/home/Investigate_a_Dataset%20(4).html">Investigate_a_Dataset.ipynb</a>
+<a href="https://github.com/hwangmpaula/FBI-gun-data-analysis/blob/master/FBI-gun-project/home/Investigate_a_Dataset%20(4).html">Investigate_a_Dataset.html</a>
 
 - ".Trash-0" folder is my previous edited project. (These are my rough draft)
 
