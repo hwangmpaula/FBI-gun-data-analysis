@@ -29,7 +29,7 @@ point per state (2016), but a few have data for more than one year.
 Here's a shortcut link: 
 <a href="https://github.com/hwangmpaula/FBI-gun-data-analysis/blob/master/FBI-gun-project/home/Investigate_a_Dataset.ipynb">Investigate_a_Dataset.ipynb</a>
 
-- "Investigate_a_Dataset.html" can be display in html.
+- "Investigate_a_Dataset.html" can be displayed in HTML.
 Here's a shortcut link: 
 <a href="https://github.com/hwangmpaula/FBI-gun-data-analysis/blob/master/FBI-gun-project/home/Investigate_a_Dataset%20(4).html">Investigate_a_Dataset.ipynb</a>
 
