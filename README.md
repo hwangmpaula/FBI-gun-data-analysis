@@ -22,7 +22,18 @@ The data has been supplemented with state level data from census.gov.
 ##### Another Files in FBI-gun-data-analysis:
 - The NICS data is found in one sheet of an .xlsx file. It contains the number of firearm checks by month, state, and type.
 
-- The U.S. census data is found in a .csv file. It contains several variables at the state level. Most variables just have one data point per state (2016), but a few have data for more than one year.
+- The U.S. census data is found in a .csv file. It contains several variables at the state level. Most variables just have one data
+point per state (2016), but a few have data for more than one year.
+
+- "Investigate_a_Dataset.ipynb" is found in FBI-Project/home/. It is is the file project, written in python and jupyter notebook.
+Here's a shortcut link: 
+<a href="https://github.com/hwangmpaula/FBI-gun-data-analysis/blob/master/FBI-gun-project/home/Investigate_a_Dataset.ipynb">Investigate_a_Dataset.ipynb</a>
+
+- "Investigate_a_Dataset.html" can be display in html.
+Here's a shortcut link: 
+<a href="https://github.com/hwangmpaula/FBI-gun-data-analysis/blob/master/FBI-gun-project/home/Investigate_a_Dataset%20(4).html">Investigate_a_Dataset.ipynb</a>
+
+- ".Trash-0" folder is my previous edited project. (These are my rough draft)
 
 ### 
 
